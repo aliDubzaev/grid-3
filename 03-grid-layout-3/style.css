@@ -31,6 +31,10 @@
   align-items: center;
 }
 
+.header .logo {
+  padding-right: 400px;
+}
+
 .menu ul {
   display: grid;
   grid-template-columns: repeat(4, minmax(100px, 1fr));
